@@ -1,0 +1,7 @@
+/* AppShortcuts.strings — phrase localization for AppShortcutsProvider.
+   Only invocation phrases belong here; `shortTitle` is localized via Localizable.strings. */
+
+"Run due cron jobs in ${applicationName}" = "在 ${applicationName} 中运行到期定时任务";
+"Run ${applicationName} cron jobs" = "运行 ${applicationName} 定时任务";
+"Trigger cron job in ${applicationName}" = "在 ${applicationName} 中触发定时任务";
+"Run ${applicationName} scheduled task" = "运行 ${applicationName} 计划任务";

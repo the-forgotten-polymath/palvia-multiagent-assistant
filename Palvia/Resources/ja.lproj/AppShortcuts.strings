@@ -1,0 +1,7 @@
+/* AppShortcuts.strings — phrase localization for AppShortcutsProvider.
+   Only invocation phrases belong here; `shortTitle` is localized via Localizable.strings. */
+
+"Run due cron jobs in ${applicationName}" = "${applicationName}で期限の来た定期タスクを実行";
+"Run ${applicationName} cron jobs" = "${applicationName}の定期タスクを実行";
+"Trigger cron job in ${applicationName}" = "${applicationName}で定期タスクをトリガー";
+"Run ${applicationName} scheduled task" = "${applicationName}のスケジュールタスクを実行";
